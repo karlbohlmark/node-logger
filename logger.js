@@ -1,7 +1,3 @@
-//var config = require('config');
-
-//var esIndex = require('./es')
-
 var path = require('path')
 
 function Logger (defaults, parentModule) {
